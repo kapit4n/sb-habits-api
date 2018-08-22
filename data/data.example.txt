@@ -1,0 +1,5 @@
+[HABIT]
+Write 1 line of source code
+
+[HABITLOG]
+write 1 line of source code, 2 PM Monday 12 Agu 2017, "I could write my line of source code today"
