@@ -48,7 +48,7 @@ public class Habit implements Serializable {
     return name;
   }
 
-  public void setname(String ti) {
+  public void setName(String ti) {
     name = ti;
   }
 
