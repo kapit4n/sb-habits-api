@@ -6,6 +6,6 @@ user: user
 password: password
 
 # resources
-GET /habits
-GET /habits/{id}
-POST /habits
+* GET /habits
+* GET /habits/{id}
+* POST /habits
