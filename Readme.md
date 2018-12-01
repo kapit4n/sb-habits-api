@@ -1,7 +1,7 @@
 Spring boot api application for habits registering
 # RUN
-./gradlew build
-./gradlew bootRun
+* ./gradlew build
+* ./gradlew bootRun
 
 
 # Default values
