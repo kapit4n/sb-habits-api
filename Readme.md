@@ -9,6 +9,6 @@ user: user
 password: password
 
 # resources
-* GET /habits
-* GET /habits/{id}
-* POST /habits
+* GET /api/habits
+* GET /api/habits/{id}
+* POST /api/habits
