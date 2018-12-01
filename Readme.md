@@ -1,3 +1,4 @@
+Spring boot api application for habits registering
 # RUN
 gradlew bootRun
 
